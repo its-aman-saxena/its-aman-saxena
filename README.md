@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm AMAN SAXENA</h1>
+<h1 align="center">Hello 👋, I'm AMAN SAXENA</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **payment gateway website**
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum.webp">
 
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;"><iframe src="https://giphy.com/embed/L8K62iTDkzGX6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-development-L8K62iTDkzGX6">via GIPHY</a></p>
+- 🔭 I’m currently working on **payment gateway website**
 
 - 🌱 I’m currently learning **React**
 
