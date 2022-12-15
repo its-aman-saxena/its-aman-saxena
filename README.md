@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm AMAN SAXENA</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/CalmKeyEidolonhelvum.webp">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474u1odjdan3dvlqlbah4l0bcwataosfkjzq1yl9f1&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **payment gateway website**
 
