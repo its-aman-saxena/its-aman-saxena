@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm AMAN SAXENA</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/its-aman-saxena/its-aman-saxena/blob/main/gif2.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/its-aman-saxena/its-aman-saxena/blob/main/gif.gif">
 
 # 💫 About Me:
 🔭 I’m currently working My Portfolio Website <br>🌱 I’m currently learning React js<br>💬 Ask me about Javascript<br>⚡ Fun fact : -)
